@@ -12,12 +12,18 @@ A Python (pandas) project that cleans and analyzes a synthetic healthcare claims
 - Exports an Excel report and a chart
 
 ## Tools
-Python, pandas, matplotlib, openpyxl
+Python, pandas, matplotlib, openpyxl, Power BI
 
 ## How to run
 1. Install the libraries: `python -m pip install pandas openpyxl matplotlib`
 2. Run: `python analysis.py`
+## Dashboard
+The cleaned data is exported to CSV and visualized in a Power BI dashboard with KPI cards, rejection charts, and interactive filters.
+
+![Rejected Claims Dashboard](dashboard.png)
 
 ## Outputs
 - `rejection_report.xlsx`: summary by payer and by rejection reason
 - `rejected_amount_by_reason.png`: chart of rejected amount by reason
+- `claims_clean.csv`: cleaned dataset used by the dashboard
+- `rejected_claims_dashboard.pbix`: Power BI dashboard file

@@ -54,3 +54,5 @@ plt.tight_layout()
 plt.savefig("rejected_amount_by_reason.png", dpi=150)
 
 print("Chart saved: rejected_amount_by_reason.png")
+df.to_csv("claims_clean.csv", index=False, encoding="utf-8-sig")
+print("Clean data saved: claims_clean.csv")
