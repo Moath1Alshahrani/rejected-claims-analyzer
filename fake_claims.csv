@@ -1,0 +1,203 @@
+﻿Claim_ID,Patient_ID,Service_Date,Department,Payer,ICD10_Code,Claim_Amount_SAR,Status,Rejection_Reason
+CLM-1001,P42098,2026-05-21,Inpatient,Tawuniya,K21.9,7727.21,Approved,
+CLM-1002,P14165,2026-08-05,Outpatient,Bupa Arabia,K29.7,1364.57,Rejected,Service not covered
+CLM-1003,P36062,2026-10-15,Dental,GIG,K21.9,2907.03,Approved,
+CLM-1004,P10851,2026-05-23,Inpatient,GIG,J06.9,6607.56,Approved,
+CLM-1005,P23396,2026-06-22,Outpatient,Malath,I10,4181.97,Approved,
+CLM-1006,P15695,2026-05-16,Dental,Malath, e11.9 ,4403.91,Approved,
+CLM-1007,P92397,2026-05-31,Laboratory,MedGulf,Z00.0,1629.19,Rejected,Missing prior authorization
+CLM-1008,P47930,2026-04-27,Outpatient,Tawuniya,L30.9,2428.62,Approved,
+CLM-1009,P31319,2026-07-06,Emergency,MedGulf,K29.7,1346.87,Approved,
+CLM-1010,P89840,2026-02-06,Dental,Tawuniya,O80,8091.58,Rejected,Missing documentation
+CLM-1011,P45382,2026-07-14,Dental,GIG,O80,8790.15,Approved,
+CLM-1012,P40021,2026-01-29,Outpatient,MedGulf,J06.9,2752.44,Approved,
+CLM-1013,P51245,2026-10-18,Inpatient,GIG,R07.4,3322.73,Approved,
+CLM-1014,P28301,2026-05-16,Inpatient,GIG,O80,4838.24,Rejected,Service not covered
+CLM-1015,P62350,2026-10-26,Emergency,Tawuniya,J45.9,6536.88,Rejected,Invalid ICD-10 code
+CLM-1016,P24371,2026-01-25,Inpatient,GIG,J45.9,6187.89,Approved,
+CLM-1017,P60432,2026-02-02,Radiology,Al Rajhi Takaful,R07.4,9536.14,Approved,
+CLM-1018,P99166,2026-01-06,Dental,tawuniya ,E78.5,6420.0,Rejected,Policy expired
+CLM-1019,P24621,2026-06-24,Emergency,Malath,J45.9,10634.74,Rejected,Missing documentation
+CLM-1020,P75612,2026-05-15,Inpatient,Al Rajhi Takaful,I10,5526.63,Rejected,Policy expired
+CLM-1021,P89818,2026-09-17,Inpatient,Tawuniya,N39.0,10465.65,Approved,
+CLM-1022,P10074,2026-09-29,Laboratory,MedGulf,R07.4,9185.75,Approved,
+CLM-1023,P41385,2026-06-07,Outpatient,Tawuniya,Z00.0,380.8,Rejected,Policy expired
+CLM-1024,P19071,2026-09-06,Laboratory,Tawuniya,J45.9,11371.35,Approved,
+CLM-1025,P89507,2026-09-28,Radiology,Tawuniya,O80,7968.05,Rejected,Missing prior authorization
+CLM-1026,P98039,2026-07-24,Dental,MedGulf,R07.4,9099.89,Rejected,Missing documentation
+CLM-1027,P39451,2026-05-07,Outpatient,MedGulf,E11.9,10810.43,Approved,
+CLM-1028,P10942,2026-04-23,Outpatient,GIG,E78.5,7121.46,Approved,
+CLM-1029,P53309,2026-01-17,Outpatient,Al Rajhi Takaful,K29.7,847.65,Approved,
+CLM-1030,P27342,2026-10-04,Dental,Al Rajhi Takaful,Z00.0,3449.96,Approved,
+CLM-1031,P22363,2026-04-08,Outpatient,GIG,J06.9,5751.15,Rejected,Missing documentation
+CLM-1032,P98259,2026-01-28,Dental,GIG,I10,4348.43,Approved,
+CLM-1033,P42591,2026-02-25,Inpatient,Tawuniya,O80,868.26,Rejected,Missing documentation
+CLM-1034,P70637,2026-05-23,Inpatient,Bupa Arabia,R07.4,5466.07,Approved,
+CLM-1035,P11934,2026-10-04,Outpatient,Tawuniya,J45.9,9725.06,Rejected,Missing prior authorization
+CLM-1036,P17685,2026-07-25,Inpatient,Malath,E11.9,4966.01,Approved,
+CLM-1037,P47388,2026-08-21,Radiology,GIG,K21.9,11825.91,Approved,
+CLM-1038,P30289,2026-09-07,Inpatient,MedGulf,K29.7,11945.76,Approved,
+CLM-1039,P17989,2026-10-05,Dental,MedGulf,E11.9,11629.21,Approved,
+CLM-1040,P30635,2026-09-29,Outpatient,Al Rajhi Takaful,I10,744.19,Approved,
+CLM-1041,P98501,2026-02-04,Inpatient,Malath,i10,10238.41,Approved,
+CLM-1042,P87924,2026-10-24,Outpatient,Al Rajhi Takaful,I10,11307.91,Approved,
+CLM-1043,P51467,2026-09-25,Emergency,Tawuniya,E78.5,5117.82,Approved,
+CLM-1044,P27154,2026-07-22,Dental,GIG,M54.5,8636.87,Approved,
+CLM-1045,P70068,2026-01-05,Laboratory,Al Rajhi Takaful,I10,5568.11,Rejected,Coding mismatch with service
+CLM-1046,P27361,2026-05-16,Emergency,Bupa Arabia,K29.7,1018.14,Approved,
+CLM-1047,P49651,2026-10-06,Laboratory,GIG,O80,4528.9,Approved,
+CLM-1048,P27601,2026-02-23,Emergency,Bupa Arabia,I10,242.7,Rejected,Invalid ICD-10 code
+CLM-1049,P89276,2026-05-25,Inpatient,GIG,N39.0,8947.64,Approved,
+CLM-1050,P42914,2026-09-08,Outpatient,Bupa Arabia,E78.5,2562.63,Rejected,Invalid ICD-10 code
+CLM-1051,P53719,2026-01-02,Inpatient,GIG,M54.5,5169.37,Approved,
+CLM-1052,P83519,2026-08-07,Outpatient,Bupa Arabia,I10,2064.75,Approved,
+CLM-1053,P58393,2026-01-19,Laboratory,Al Rajhi Takaful,J45.9,11348.85,Rejected,Missing prior authorization
+CLM-1054,P15229,2026-07-06,Emergency,Tawuniya,E78.5,5242.97,Approved,
+CLM-1055,P63264,2026-10-14,Laboratory,GIG,J45.9,3106.93,Approved,
+CLM-1056,P33206,2026-03-25,Radiology,Bupa Arabia,J45.9,11120.3,Approved,
+CLM-1057,P97806,2026-07-30,Dental,Tawuniya,M54.5,8878.29,Approved,
+CLM-1058,P71694,2026-01-20,Inpatient,Tawuniya,L30.9,2036.49,Rejected,Invalid ICD-10 code
+CLM-1059,P39219,2026-04-27,Outpatient,GIG,K29.7,11033.66,Approved,
+CLM-1060,P46585,2026-02-05,Emergency,GIG,O80,4871.82,Approved,
+CLM-1061,P25118,2026-01-15,Emergency,Tawuniya,Z00.0,4886.19,Rejected,Service not covered
+CLM-1062,P88193,2026-02-25,Radiology,MedGulf,K21.9,11556.03,Approved,
+CLM-1063,P25157,2026-09-19,Radiology,Al Rajhi Takaful,K29.7,9469.17,Approved,
+CLM-1064,P97900,2026-10-03,Inpatient,MedGulf,J06.9,,Rejected,Missing prior authorization
+CLM-1065,P96951,2026-06-10,Outpatient,GIG,M54.5,979.19,Rejected,Invalid ICD-10 code
+CLM-1066,P82667,2026-06-01,Inpatient,Tawuniya,J06.9,6159.4,Rejected,Invalid ICD-10 code
+CLM-1067,P90676,2026-03-31,Laboratory,MedGulf,J06.9,8029.41,Approved,
+CLM-1068,P37549,2026-05-27,Radiology,Al Rajhi Takaful,Z00.0,6643.06,Approved,
+CLM-1069,P98555,2026-08-15,Inpatient,Al Rajhi Takaful,R07.4,7908.26,Approved,
+CLM-1070,P47196,2026-02-13,Laboratory,GIG,E78.5,9555.76,Rejected,Missing documentation
+CLM-1071,P98184,2026-05-01,Emergency,Tawuniya,D64.9,7488.24,Approved,
+CLM-1072,P72277,2026-05-06,Laboratory,Bupa Arabia,R07.4,2509.69,Approved,
+CLM-1073,P74799,2026-07-16,Radiology,Tawuniya,J45.9,5061.13,Rejected,Missing prior authorization
+CLM-1074,P65724,2026-02-24,Inpatient,Tawuniya,D64.9,7924.29,Approved,
+CLM-1075,P83060,2026-01-26,Inpatient,Bupa Arabia,R07.4,11501.9,Approved,
+CLM-1076,P83259,2026-09-29,Laboratory,MedGulf,D64.9,1730.07,Approved,
+CLM-1077,P65933,2026-09-16,Laboratory,Malath,J45.9,10713.4,Approved,
+CLM-1078,P42406,2026-05-13,Dental,MedGulf,D64.9,8962.32,Approved,
+CLM-1079,P45992,2026-05-03,Radiology,Bupa Arabia,K21.9,9365.45,Approved,
+CLM-1080,P80798,2026-06-13,Outpatient,Tawuniya,J45.9,3535.88,Approved,
+CLM-1081,P64377,2026-02-02,Radiology,MedGulf,O80,2890.45,Rejected,Missing documentation
+CLM-1082,P61049,2026-08-04,Laboratory,GIG,E11.9,5671.2,Approved,
+CLM-1083,P56105,2026-01-04,Emergency,Malath,L30.9,10302.27,Rejected,Invalid ICD-10 code
+CLM-1084,P89069,2026-10-07,Inpatient,Malath,K29.7,10715.95,Rejected,Service not covered
+CLM-1085,P54057,2026-07-19,Dental,GIG,D64.9,3384.28,Approved,
+CLM-1086,P26728,2026-08-28,Laboratory,Al Rajhi Takaful,E11.9,4941.15,Approved,
+CLM-1087,P21003,2026-01-14,Dental,Malath,J45.9,10897.11,Approved,
+CLM-1088,P59689,2026-05-14,Emergency,Tawuniya,R07.4,10422.19,Approved,
+CLM-1089,P43065,2026-08-04,Outpatient,Malath,E11.9,4023.12,Rejected,Invalid ICD-10 code
+CLM-1090,P39389,2026-06-29,Dental,Bupa Arabia,D64.9,9025.94,Approved,
+CLM-1091,P42411,2026-01-16,Inpatient,Bupa Arabia,Z00.0,11493.83,Approved,
+CLM-1092,P83920,2026-02-28,Inpatient,Malath,K21.9,1955.73,Approved,
+CLM-1093,P31465,2026-02-28,Emergency,Bupa Arabia,Z00.0,3186.49,Approved,
+CLM-1094,P61990,2026-07-12,Dental,Tawuniya,I10,454.29,Approved,
+CLM-1095,P99687,2026-06-04,Laboratory,Bupa Arabia,D64.9,7166.36,Rejected,Invalid ICD-10 code
+CLM-1096,P96706,2026-08-08,Emergency,Bupa Arabia,O80,11808.56,Rejected,Invalid ICD-10 code
+CLM-1097,P74251,2026-08-04,Outpatient,Malath,N39.0,7823.39,Approved,
+CLM-1098,P33086,2026-08-11,Dental,Al Rajhi Takaful,E78.5,7681.68,Rejected,Missing documentation
+CLM-1099,P70931,2026-09-05,Radiology,GIG,Z00.0,3350.48,Rejected,Service not covered
+CLM-1100,P46559,2026-02-14,Radiology,Tawuniya,D64.9,3330.49,Rejected,Policy expired
+CLM-1101,P54092,2026-07-14,Outpatient,Malath,L30.9,5656.8,Approved,
+CLM-1102,P43862,2026-07-01,Emergency,MedGulf,Z00.0,4001.42,Approved,
+CLM-1103,P77715,2026-01-06,Inpatient,Bupa Arabia,K29.7,8459.03,Approved,
+CLM-1104,P72402,2026-05-04,Dental,GIG,R07.4,8682.88,Approved,
+CLM-1105,P39045,2026-05-31,Radiology,GIG,K29.7,5460.87,Approved,
+CLM-1106,P82544,2026-08-31,Laboratory,MedGulf,J06.9,3778.54,Approved,
+CLM-1107,P69473,2026-06-30,Emergency,MedGulf,M54.5,11960.08,Approved,
+CLM-1108,P34267,2026-10-02,Inpatient,Tawuniya,K21.9,2881.88,Rejected,Invalid ICD-10 code
+CLM-1109,P88222,2026-09-26,Emergency,Bupa Arabia,L30.9,5887.75,Rejected,Late submission
+CLM-1110,P49618,2026-04-02,Outpatient,GIG,O80,2450.29,Approved,
+CLM-1111,P82529,2026-01-28,Emergency,GIG,J45.9,1650.01,Approved,
+CLM-1112,P85243,2026-01-07,Emergency,Malath,R07.4,7708.76,Rejected,Missing prior authorization
+CLM-1113,P43092,2026-01-27,Radiology,Bupa Arabia,L30.9,5369.56,Approved,
+CLM-1114,P92502,2026-10-23,Dental,Bupa Arabia,J45.9,924.32,Approved,
+CLM-1115,P21164,2026-06-05,Inpatient,Bupa Arabia,O80,1917.99,Approved,
+CLM-1116,P78494,2026-04-26,Radiology,Malath,R07.4,9208.65,Approved,
+CLM-1117,P50026,2026-08-08,Laboratory,Al Rajhi Takaful,E11.9,3673.63,Approved,
+CLM-1118,P91987,2026-04-17,Inpatient,MedGulf,E78.5,7374.13,Rejected,Coding mismatch with service
+CLM-1119,P19838,2026-10-10,Inpatient,Bupa Arabia,J06.9,1112.07,Approved,
+CLM-1120,P14278,2026-05-30,Inpatient,MedGulf,K21.9,5488.47,Approved,
+CLM-1121,P44675,2026-04-30,Dental,Al Rajhi Takaful,E78.5,3500.21,Rejected,Missing prior authorization
+CLM-1122,P81376,2026-02-28,Inpatient,GIG,J45.9,9676.28,Approved,
+CLM-1123,P50319,2026-03-26,Laboratory,GIG,L30.9,10914.68,Rejected,Missing prior authorization
+CLM-1124,P71433,2026-03-05,Dental,MedGulf,K21.9,6895.1,Approved,
+CLM-1125,P74722,2026-10-04,Radiology,Bupa Arabia,Z00.0,4919.73,Approved,
+CLM-1126,P89129,2026-06-15,Emergency,Bupa Arabia,I10,622.35,Approved,
+CLM-1127,P12719,2026-10-28,Dental,MedGulf,Z00.0,2862.75,Rejected,Policy expired
+CLM-1128,P46458,2026-08-15,Inpatient,Al Rajhi Takaful,J06.9,626.75,Rejected,Service not covered
+CLM-1129,P71605,2026-02-16,Emergency,Malath,N39.0,7672.2,Approved,
+CLM-1130,P53228,2026-03-24,Radiology,GIG,R07.4,3954.54,Approved,
+CLM-1131,P14809,2026-10-09,Radiology,Bupa Arabia,N39.0,3565.38,Rejected,Missing documentation
+CLM-1132,P77449,2026-07-26,Outpatient,GIG,L30.9,3140.93,Approved,
+CLM-1133,P77952,2026-04-07,Emergency,Al Rajhi Takaful,D64.9,6579.73,Approved,
+CLM-1134,P36680,2026-01-27,Emergency,Al Rajhi Takaful,J45.9,6057.14,Approved,
+CLM-1135,P25915,2026-09-06,Outpatient,GIG,Z00.0,11142.92,Approved,
+CLM-1136,P82384,2026-01-08,Radiology,Bupa Arabia,K29.7,9621.87,Rejected,Invalid ICD-10 code
+CLM-1137,P94896,2026-03-02,Inpatient,Malath,K21.9,11908.25,Rejected,Service not covered
+CLM-1138,P71894,2026-09-05,Inpatient,Malath,O80,3608.56,Rejected,Invalid ICD-10 code
+CLM-1139,P27892,2026-09-18,Outpatient,MedGulf,D64.9,1864.01,Approved,
+CLM-1140,P45018,2026-09-17,Outpatient,MedGulf,K21.9,9511.57,Approved,
+CLM-1141,P29476,2026-09-08,Radiology,Al Rajhi Takaful,R07.4,3687.89,Approved,
+CLM-1142,P59441,2026-10-06,Radiology,MedGulf,L30.9,4239.72,Approved,
+CLM-1143,P63841,2026-04-30,Outpatient,MedGulf,K21.9,2385.53,Rejected,Service not covered
+CLM-1144,P74923,2026-03-19,Outpatient,Tawuniya,O80,5754.77,Rejected,Invalid ICD-10 code
+CLM-1145,P67711,2026-02-21,Outpatient,Al Rajhi Takaful,R07.4,11589.44,Approved,
+CLM-1146,P19807,2026-03-21,Radiology,MedGulf,N39.0,331.87,Approved,
+CLM-1147,P53065,2026-02-11,Dental,Al Rajhi Takaful,J06.9,7535.62,Approved,
+CLM-1148,P80912,2026-09-07,Outpatient,Al Rajhi Takaful,I10,11456.55,Rejected,Coding mismatch with service
+CLM-1149,P21846,2026-04-27,Radiology,Bupa Arabia,D64.9,2932.03,Rejected,Invalid ICD-10 code
+CLM-1150,P13794,2026-06-03,Outpatient,MedGulf,D64.9,7659.91,Rejected,Service not covered
+CLM-1151,P29080,2026-08-09,Inpatient,Al Rajhi Takaful,J06.9,815.01,Approved,
+CLM-1152,P89887,2026-02-10,Radiology,Al Rajhi Takaful,E78.5,6856.25,Rejected,Missing prior authorization
+CLM-1153,P93611,2026-08-25,Emergency,Malath,M54.5,3003.83,Rejected,Missing prior authorization
+CLM-1154,P98815,2026-05-28,Laboratory,Tawuniya,I10,8052.06,Rejected,Service not covered
+CLM-1155,P49210,2026-10-28,Dental,Malath,K21.9,5384.5,Approved,
+CLM-1156,P73335,2026-07-16,Outpatient,Tawuniya,J06.9,3113.66,Rejected,Missing prior authorization
+CLM-1157,P12875,2026-06-01,Dental,Malath,M54.5,6927.28,Approved,
+CLM-1158,P89482,2026-01-26,Dental,Malath,L30.9,245.96,Rejected,Missing documentation
+CLM-1159,P89569,2026-04-28,Emergency,Tawuniya,E78.5,10864.24,Approved,
+CLM-1160,P92345,2026-03-12,Outpatient,GIG,E78.5,2403.06,Approved,
+CLM-1161,P27224,2026-07-06,Outpatient,MedGulf,N39.0,617.16,Rejected,Missing prior authorization
+CLM-1162,P80701,2026-03-09,Emergency,Al Rajhi Takaful,O80,9007.65,Approved,
+CLM-1163,P48684,2026-09-04,Dental,MedGulf,D64.9,10974.82,Rejected,Invalid ICD-10 code
+CLM-1164,P98647,2026-04-26,Dental,GIG,J06.9,1514.76,Rejected,Missing prior authorization
+CLM-1165,P11824,2026-07-22,Emergency,Al Rajhi Takaful,I10,11612.15,Rejected,Invalid ICD-10 code
+CLM-1166,P59941,2026-10-27,Dental,MedGulf,I10,5539.21,Rejected,Duplicate claim
+CLM-1167,P52992,2026-10-15,Laboratory,Tawuniya,E78.5,8146.81,Approved,
+CLM-1168,P95097,2026-06-04,Radiology,Bupa Arabia,J45.9,899.12,Rejected,Coding mismatch with service
+CLM-1169,P25220,2026-09-10,Outpatient,Tawuniya,O80,687.36,Approved,
+CLM-1170,P64935,2026-10-04,Laboratory,GIG,K21.9,1757.62,Approved,
+CLM-1171,P74139,2026-02-20,Laboratory,Malath,M54.5,1981.1,Approved,
+CLM-1172,P68287,2026-08-16,Inpatient,MedGulf,I10,537.69,Approved,
+CLM-1173,P17936,2026-07-03,Radiology,MedGulf,K29.7,11773.99,Approved,
+CLM-1174,P96870,2026-02-16,Inpatient,GIG,E78.5,11623.25,Rejected,Policy expired
+CLM-1175,P41925,2026-06-20,Inpatient,Al Rajhi Takaful,K29.7,7226.18,Approved,
+CLM-1176,P40539,2026-04-21,Emergency,Tawuniya,D64.9,963.03,Rejected,Missing prior authorization
+CLM-1177,P27038,2026-03-16,Laboratory,MedGulf,D64.9,10821.29,Approved,
+CLM-1178,P56955,2026-01-08,Inpatient,Al Rajhi Takaful,N39.0,2217.79,Rejected,Missing prior authorization
+CLM-1179,P65176,2026-03-06,Laboratory,Bupa Arabia,K21.9,337.01,Approved,
+CLM-1180,P77271,2026-07-05,Laboratory,Bupa Arabia,R07.4,903.16,Approved,
+CLM-1181,P49535,2026-09-24,Radiology,GIG,E11.9,6120.49,Rejected,Missing prior authorization
+CLM-1182,P65872,2026-07-25,Dental,Bupa Arabia,R07.4,870.78,Approved,
+CLM-1183,P52219,2026-02-11,Laboratory,Tawuniya,I10,8591.96,Approved,
+CLM-1184,P59925,2026-06-16,Laboratory,Al Rajhi Takaful,M54.5,1645.37,Rejected,Duplicate claim
+CLM-1185,P24996,2026-02-20,Dental,GIG,D64.9,5526.53,Approved,
+CLM-1186,P64239,2026-04-27,Emergency,Malath,J06.9,6683.32,Rejected,Invalid ICD-10 code
+CLM-1187,P50963,2026-08-07,Dental,MedGulf,N39.0,5079.48,Approved,
+CLM-1188,P21188,2026-02-16,Outpatient,Malath,I10,11450.07,Rejected,Service not covered
+CLM-1189,P82924,2026-03-08,Outpatient,Al Rajhi Takaful,O80,8973.38,Approved,
+CLM-1190,P16743,2026-08-05,Emergency,Al Rajhi Takaful,M54.5,6805.95,Rejected,Invalid ICD-10 code
+CLM-1191,P30280,2026-04-19,Dental,Malath,K29.7,4317.01,Approved,
+CLM-1192,P58176,2026-10-12,Outpatient,MedGulf,Z00.0,10190.21,Approved,
+CLM-1193,P91490,2026-10-15,Laboratory,GIG,E78.5,2829.99,Approved,
+CLM-1194,P13794,2026-05-17,Inpatient,MedGulf,K21.9,6747.37,Approved,
+CLM-1195,P28776,2026-04-03,Laboratory,GIG,J06.9,9184.55,Rejected,Invalid ICD-10 code
+CLM-1196,P79531,2026-02-16,Inpatient,Malath,J06.9,974.59,Rejected,Late submission
+CLM-1197,P52517,2026-06-09,Laboratory,Al Rajhi Takaful,I10,5525.7,Approved,
+CLM-1198,P98338,2026-01-26,Outpatient,MedGulf,R07.4,10617.6,Approved,
+CLM-1199,P64287,2026-08-15,Emergency,Tawuniya,D64.9,7993.97,Approved,
+CLM-1200,P47125,2026-02-26,Dental,GIG,Z00.0,6221.3,Approved,
+CLM-1011,P45382,2026-07-14,Dental,GIG,O80,8790.15,Approved,
+CLM-1026,P98039,2026-07-24,Dental,MedGulf,R07.4,9099.89,Rejected,Missing documentation
